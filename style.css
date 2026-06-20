@@ -9,7 +9,8 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    overflow:hidden;
+    overflow-y:auto; 
+    padding: 40px 0;
 
     background:
     radial-gradient(circle at top left,#ff6ba6 0%,transparent 40%),
