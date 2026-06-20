@@ -28,7 +28,7 @@ body {
     border-radius: 30px;
     
     /* Эффект матового стекла на светлом фоне */
-    background: rgba(119, 160, 156, 0.45);
+    background: rgba(165, 250, 241, 0.45);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     
